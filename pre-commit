@@ -2,3 +2,4 @@
 
 echo "Hello World, my first git hook"
 curl https://icanhazdadjoke.com
+
